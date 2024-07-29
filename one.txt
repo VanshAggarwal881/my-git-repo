@@ -1,2 +1,4 @@
 this is my first file after i learned git from youtube.
 adding another text to the file.
+add these lines to see if the lines are pushed or not on the github with upstream.
+-------------.....
