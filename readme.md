@@ -1,5 +1,5 @@
 # this is markdown file
 ---
 ```bash
-print('hello world)
+print('hello world')
 ```
